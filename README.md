@@ -123,7 +123,7 @@ M3\*10mm SHCS - 2шт
 
 После печати необходимых деталей нужно вплавить резьбовые втулки. На рисунках ниже подсвечены места вплавления втулок именно с той стороны с которой их нужно вплавлять. Места вплавления втулок и сборку самой головы Voron Afterburner можно посмотреть либо в чертеже либо в [официальном мануале по сборке voron 2.4](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Docs/2.4_Assembly_Manual.pdf) начиная со страницы 66
 
-![front1.jpg](IMG/front1.jpg?fileId=11622#mimetype=image%2Fjpeg&hasPreview=true)![front2.jpg](IMG/front2.jpg?fileId=11624#mimetype=image%2Fjpeg&hasPreview=true)![rear.jpg](IMG/rear.jpg?fileId=11621#mimetype=image%2Fjpeg&hasPreview=true)![assembled.jpg](IMG/assembled.jpg?fileId=11623#mimetype=image%2Fjpeg&hasPreview=true)
+![front1.jpg](IMG/front1.jpg)![front2.jpg](IMG/front2.jpg?fileId=11624)![rear.jpg](IMG/rear.jpg)![assembled.jpg](IMG/assembled.jpg)
 
  (<https://nc.anex13.com/index.php/s/7GMcKoWNaFQFamq>   если картинки не грузятся)
 
