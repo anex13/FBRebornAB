@@ -48,7 +48,7 @@ M3\*40mm SHCS - 2шт
 
 [DDB kit](https://aliexpress.ru/item/4000021186440.html)
 
-[v6](https://aliexpress.ru/item/32844028127.html)/dragon/moskito honend в сборе в зависимости от выбора
+[v6 не volcano](https://aliexpress.ru/item/32844028127.html)/dragon/moskito honend в сборе в зависимости от выбора
 
 4mm PTFE трубка
 
