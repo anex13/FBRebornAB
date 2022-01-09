@@ -46,7 +46,7 @@ M3\*40mm SHCS - 2шт
 
 [4020 turbine](https://aliexpress.ru/item/32814937229.html)
 
-[DDB kit](https://aliexpress.ru/item/4000021186440.html)
+[DDB kit](https://aliexpress.ru/item/4000021186440.html) к сожалению пока магазин triangle lab не работает я не могу порекомендовать другие наборы. Можете clockwork заменить на galileo фидер и купить к нему кит.
 
 [v6 не volcano](https://aliexpress.ru/item/32844028127.html)/dragon/moskito honend в сборе в зависимости от выбора
 
